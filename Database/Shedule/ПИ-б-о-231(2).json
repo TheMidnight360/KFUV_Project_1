@@ -1,0 +1,818 @@
+[
+  [
+    [
+      {
+        "number": 1,
+        "type": "ЛК",
+        "name": "Высшая математика",
+        "teacher": "Смирнова С.И.",
+        "location": "ауд.211А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "ПЗ",
+        "name": "Основы российской государственности",
+        "teacher": "Клименко Е.П.",
+        "location": "ауд.306В(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ПЗ",
+        "name": "История России",
+        "teacher": "Лейбенсон Ю.Т.",
+        "location": "ауд.412В(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "ПЗ",
+        "name": "Высшая математика",
+        "teacher": "Смирнова С.И.",
+        "location": "ауд.211А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "ПЗ",
+        "name": "Иностранный язык(немецкий, французкий)",
+        "teacher": "Томичева И.В.",
+        "location": "ауд.311Б,316Б(пр.Вернадского 4)",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ЛК",
+        "name": "История России",
+        "teacher": "Непомнящий А.А.",
+        "location": "ауд.209А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "ПЗ",
+        "name": "Алгоритмизация и программирование",
+        "teacher": "Зойкин Е.С.",
+        "location": "ауд.117А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "ПЗ",
+        "name": "Основы цифровой грамотности",
+        "teacher": "Корниенко А.Ю.",
+        "location": "ауд.9А(пр.Вернадского 4)",
+        "comment": "Корниенко А.Ю.:\nOK"
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ЛК",
+        "name": "Алгоритмизация и программирование",
+        "teacher": "Чабанов В.В.",
+        "location": "ауд.302А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "ПЗ",
+        "name": "Физическая культура",
+        "teacher": "Крюков С.А.",
+        "location": "спорт зал ТА(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "ПЗ",
+        "name": "Структуры и алгоритмы обработки данных",
+        "teacher": "Горская И.Ю.",
+        "location": "ауд.315А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ПЗ",
+        "name": "Деловая коммуникация и русская речевая культура",
+        "teacher": "Рудницкая Л.И.",
+        "location": "ауд.309А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": "Корниенко А.Ю.:\n --------------- ---"
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ПЗ",
+        "name": "Иностранный язык",
+        "teacher": "Фабрина А.В.",
+        "location": "ауд.304А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "number": 1,
+        "type": "ЛК",
+        "name": "Высшая математика",
+        "teacher": "Смирнова С.И.",
+        "location": "ауд.211А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "ПЗ",
+        "name": "Основы российской государственности",
+        "teacher": "Клименко Е.П.",
+        "location": "ауд.306В(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ПЗ",
+        "name": "История России",
+        "teacher": "Лейбенсон Ю.Т.",
+        "location": "ауд.302В(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "ПЗ",
+        "name": "Высшая математика",
+        "teacher": "Смирнова С.И.",
+        "location": "ауд.211А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "ПЗ",
+        "name": "Иностранный язык(немецкий, французкий)",
+        "teacher": "Томичева И.В.",
+        "location": "ауд.311Б,316Б(пр.Вернадского 4)",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ЛК",
+        "name": "История России",
+        "teacher": "Непомнящий А.А.",
+        "location": "ауд.209А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "ПЗ",
+        "name": "Алгоритмизация и программирование",
+        "teacher": "Зойкин Е.С.",
+        "location": "ауд.117А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "ПЗ",
+        "name": "Основы цифровой грамотности",
+        "teacher": "Корниенко А.Ю.",
+        "location": "ауд.9А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ЛК",
+        "name": "Алгоритмизация и программирование",
+        "teacher": "Чабанов В.В.",
+        "location": "ауд.302А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "ЛК",
+        "name": "Основы российской государственности",
+        "teacher": "Клименко Е.П.",
+        "location": "ауд.302А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "ПЗ",
+        "name": "Физическая культура",
+        "teacher": "Крюков С.А.",
+        "location": "спорт зал ТА(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "ЛК",
+        "name": "Основы цифровой грамотности",
+        "teacher": "Корниенко А.Ю.",
+        "location": "ауд.302А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ЛК",
+        "name": "Деловая коммуникация и русская речевая культура",
+        "teacher": "Рудницкая Л.И.",
+        "location": "ауд.302А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "ЛК",
+        "name": "Структуры и алгоритмы обработки данных",
+        "teacher": "Горская И.Ю.",
+        "location": "ауд.302А(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "ПЗ",
+        "name": "Иностранный язык",
+        "teacher": "Фабрина А.В.",
+        "location": "ауд.306В(пр.Вернадского 4)",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ],
+    [
+      {
+        "number": 1,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 2,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 3,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 4,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 5,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 6,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "number": 7,
+        "type": "",
+        "name": "",
+        "teacher": "",
+        "location": "",
+        "comment": ""
+      }
+    ]
+  ]
+]
